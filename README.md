@@ -7,7 +7,7 @@ This project demonstrates real-world frontend skills including API integration, 
 🚀 Live Demo
 
 👉 Deployed on Netlify
-(Add your Netlify URL here once deployed)
+https://weatheronlineapplication.netlify.app/
 
 ✨ Features
 
@@ -53,4 +53,12 @@ weather-dashboard/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+🌍 API Used
+
+OpenWeatherMap API
+
+Current Weather Data
+
+5-Day / 3-Hour Forecast
 
