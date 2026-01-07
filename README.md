@@ -38,3 +38,19 @@ HTML5 & CSS3
 Netlify (Deployment)
 
 📂 Project Structure
+weather-dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── SearchBar.js
+│   │   ├── CurrentWeather.js
+│   │   └── Forecast.js
+│   ├── services/
+│   │   └── weatherService.js
+│   ├── App.js
+│   └── index.js
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
+
